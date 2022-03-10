@@ -1,0 +1,27 @@
+{
+  "name": "desafio-backend-modulo-02-sistema-bancario-t05",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lt-lopes1994/desafio-backend-modulo-02-sistema-bancario-t05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lt-lopes1994/desafio-backend-modulo-02-sistema-bancario-t05/issues"
+  },
+  "homepage": "https://github.com/Lt-lopes1994/desafio-backend-modulo-02-sistema-bancario-t05#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "express": "^4.17.2"
+  }
+}
